@@ -23,6 +23,8 @@ File build: Source\1712869\Release\1712869.exe
 
 Checklist và báo cáo: Docs\Do an 1 Template Bao cao.doc
 
+Tất cả được nén trong file 1712869.rar
+
 
 
 Link github repo: https://github.com/ddtuan3399/do-an-1-ktlt.git
